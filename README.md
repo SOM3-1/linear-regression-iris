@@ -33,4 +33,4 @@ deactivate
 
 - Generated plots are saved in the images/ directory
 
-- Project report is provided as Project_report_1002246620.docx in the project root directory
+- Project report is provided as Project_report_1002246620.pdf in the project root directory
